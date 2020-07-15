@@ -1,0 +1,3 @@
+[submodule "docker-bind"]
+	path = docker-bind
+	url = https://github.com/ventz/docker-bind.git
